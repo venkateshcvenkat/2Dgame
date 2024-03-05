@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2f78fe5e55245294bb669f8674560d47
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Conde Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: acf27c022b6357747aad152fb893fe3c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bb7deca69d7ba0f4d8ffd2edb1907d85
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - American Purpose Casual 01
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8400ac27d54fed948a0cbad89200e221, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
